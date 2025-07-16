@@ -41,8 +41,7 @@ You can find all exact versions and dependencies in the `requirements.txt` file.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Jaival111/Gesture-Based-Virtual-Keyboard.git
-   cd Gesture-Based-Virtual-Keyboard
+   git clone https://github.com/sathwikshetty0/Virtual-Keyboard-with-Hand-Gesture-Control.git
    ```
 
 2. **Install dependencies**:
