@@ -136,15 +136,7 @@ Visual cues (like color changes) indicate when a key is hovered or clicked.
 
 ---
 
-## 📷 Screenshots (Optional)
 
-You can add screenshots of:
-
-* Keyboard layout UI
-* Hover and click gestures in action
-* Real-time typing result window
-
----
 
 ## 🤝 Contribution Guide
 
